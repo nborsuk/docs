@@ -1,10 +1,10 @@
 # docs
 ##Navigation
-1. URLS
-2. VIEWS
-3. MODELS
+1. URLS [1]
+2. VIEWS [2]
+3. MODELS [3]
 
-##MODELS
+[1] ##MODELS 
 
 #### USERS
 * id
@@ -18,7 +18,7 @@
 * last-ip-adress
 * email-notification
 
-#### USERS_INFO
+[2] #### USERS_INFO 
 * id
 * phone
 * country
@@ -31,7 +31,7 @@
 * last_name
 * user_registred
 
-#### PRODUCTS
+[3] #### PRODUCTS 
 * id
 * name
 * descriptions
