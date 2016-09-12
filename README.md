@@ -1,8 +1,8 @@
 # docs
 ##Navigation
-1. [URLS] [#Urls];
-2. [VIEWS] [#Views];
-3. [MODELS] [#Models];
+1. [URLS](#Urls);
+2. [VIEWS](#Views);
+3. [MODELS](#Models);
 
 
 ## <a name="Models"/> MODELS
