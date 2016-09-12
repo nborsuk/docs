@@ -1,10 +1,11 @@
 # docs
 ##Navigation
-1. [URLS] [1]
-2. [VIEWS] [2]
-3. [MODELS] [3]
+1. [URLS] [#Urls];
+2. [VIEWS] [#Views];
+3. [MODELS] [#Models];
 
 
+## <a name="Models"/> MODELS
 
 #### USERS
 * id
