@@ -22,7 +22,7 @@
 * last-ip-adress
 * email-notification
 
-[2]: #### USERS_INFO 
+#### USERS_INFO 
 * id
 * phone
 * country
@@ -35,7 +35,7 @@
 * last_name
 * user_registred
 
-[3] #### PRODUCTS 
+#### PRODUCTS 
 * id
 * name
 * descriptions
