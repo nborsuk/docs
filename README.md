@@ -17,4 +17,44 @@
 * reg-ip-adresss
 * last-ip-adress
 * email-notification
+
 #### USERS_INFO
+* id
+* phone
+* country
+* city
+* state
+* zip_code
+* skype
+* telegram
+* first_name
+* last_name
+* user_registred
+
+#### PRODUCTS
+* id
+* name
+* descriptions
+* image
+* price
+* video
+* type
+* value
+* quantity
+* matrix_depth
+* bonus
+* icon
+* retive
+
+#### TRANSACTIONS
+* id
+* user_id
+* refferal_id
+* date
+* type
+* status
+* cash
+* bit_coin
+* shop_order
+* description
+* hash
