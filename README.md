@@ -1,12 +1,27 @@
 # docs
 ##Navigation
-1. [URLS](#Urls);
-2. [VIEWS](#Views);
-3. [MODELS](#Models);
-
-## <a name="Urls"/> URLS
+1. [Roles](#Roles);
+2. [Views](#Views);
+3. [Models](#Models);
 
 ## <a name="Views"/> VIEWS
+
+#### Registration
+
+* url: domen.com/registration
+* input: user info
+* output: redirect to profile page
+
+#### Login
+
+* url: domen.com/login
+* input: login, password
+* output: redirect to profile page
+
+#### Profile
+
+* url: domen.com/user/{id}
+* response: Dashboard page
 
 ## <a name="Models"/> MODELS
 
