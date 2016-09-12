@@ -3,6 +3,16 @@
 1. URLS
 2. VIEWS
 3. MODELS
-
-
-sdkfjsl gnfl nglkfsl n
+##MODELS
+####USERS
+* id
+* subscription-plan
+* balance
+* bit-coin
+* sp-expive-date
+* user-login
+* user-password
+* reg-ip-adresss
+* last-ip-adress
+* email-notification
+####USERS_INFO
