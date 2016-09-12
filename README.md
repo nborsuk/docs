@@ -3,8 +3,8 @@
 1. URLS
 2. VIEWS
 3. MODELS
-##MODELS
-####USERS
+## MODELS
+#### USERS
 * id
 * subscription-plan
 * balance
@@ -15,4 +15,4 @@
 * reg-ip-adresss
 * last-ip-adress
 * email-notification
-####USERS_INFO
+#### USERS_INFO
