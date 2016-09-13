@@ -9,18 +9,25 @@
 #### Registration
 
 * url: domen.com/registration
-* input: user info
-* output: redirect to profile page
+* request: user info
+* response: profile page
 
 #### Login
 
 * url: domen.com/login
-* input: login, password
-* output: redirect to profile page
+* request: login, password
+* response: redirect to profile page
 
 #### Profile
 
 * url: domen.com/user/{id}
+* request: -
+* response: profile info
+
+#### Dashboard
+
+* url: domen.com/user/{id}/dashboard
+* request: -
 * response: Dashboard page
 
 ## <a name="Models"/> MODELS
@@ -38,7 +45,7 @@
 * email-notification
 
 #### USERS_INFO 
-* id
+* id (foreign key USERS(id))
 * phone
 * country
 * city
@@ -67,7 +74,7 @@
 
 #### TRANSACTIONS
 * id
-* user_id
+* user_id (foreign key USERS(id))
 * refferal_id
 * date
 * type
